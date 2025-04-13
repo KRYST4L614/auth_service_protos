@@ -1,1 +1,1 @@
-module auth_service_protos
+module github.com/KRYST4L614/auth_service_protos
