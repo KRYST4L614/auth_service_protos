@@ -1,6 +1,6 @@
 module github.com/KRYST4L614/auth_service_protos
 
-go 1.23.4
+go 1.23.1
 
 require (
 	google.golang.org/grpc v1.71.1
